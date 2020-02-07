@@ -27,8 +27,8 @@
 			<key>NSExtensionActivationRule</key>
 			<!-- string>TRUEPREDICATE</string -->
       <dict>
-        <key>NSExtensionActivationSupportsImageWithMaxCount</key>
-        <integer>1</integer>
+        <key>NSExtensionActivationSupportsAttachmentsWithMinCount</key>
+        <integer>20</integer>
         <!-- key>NSExtensionActivationSupportsMovieWithMaxCount</key>
         <integer>1</integer -->
         <!-- key>NSExtensionActivationSupportsWebURLWithMaxCount</key>
